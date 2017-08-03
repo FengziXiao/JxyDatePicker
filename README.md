@@ -2,9 +2,7 @@
 因项目需求，需要用到一个时间选择器，设置最大可选时间与最小可选时间，其它无效不可选的时间需要‘干’掉！！！苦于找了一堆别人自定义的时间选择器，并没有符合要求的。故而：自己写了一个。只分享给有需要的人（demo已附上）。
 先看效果：
 
-```
 ![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)
-```
 
 ```
 @protocol JXYDatePickerDelegate <NSObject>
